@@ -1,10 +1,8 @@
 <div align="center">
-  <h1>👋 Raja Shadab Ehsan Chohan</h1>
-  <p><strong>Full-Stack Developer & Enterprise Solutions Architect | Healthcare Systems Specialist | Building Production-Grade Applications</strong></p>
-  <p><em>Building scalable, production-grade applications with modern technologies</em></p>
+  <h1>Hi 👋 , I'm Raja Shadab Ehsan Chohan</h1>
+  <p><strong>Enterprise-Grade Full-Stack Developer | Healthcare Solutions Architect | Building Production-Ready Applications</strong></p>
+  <p><em>Expertise in scalable system design, healthcare domain knowledge, and enterprise-level solutions across diverse industries</em></p>
 </div>
-
----
 
 ## 💼 About Me
 
