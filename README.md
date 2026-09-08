@@ -1,136 +1,106 @@
 <div align="center">
   <h1>👋 Raja Shadab Ehsan Chohan</h1>
-  <p><strong>Full-Stack Developer | Healthcare & Enterprise Solutions Specialist | Next.js & MERN Stack Expert</strong></p>
-  
-  <div>
-    <a href="https://github.com/RajaShadabEhsanChohan?tab=repositories">
-      <img src="https://img.shields.io/badge/26%2B_Projects-FF6B6B?style=for-the-badge&logo=github&logoColor=white" alt="Projects">
-    </a>
-    <a href="https://github.com/RajaShadabEhsanChohan?tab=repositories&type=public">
-      <img src="https://img.shields.io/badge/Public_Repos-4-4CAF50?style=for-the-badge&logo=github&logoColor=white" alt="Public Repos">
-    </a>
-    <a href="https://github.com/RajaShadabEhsanChohan">
-      <img src="https://img.shields.io/github/followers/RajaShadabEhsanChohan?style=for-the-badge&logo=github&logoColor=white" alt="Followers">
-    </a>
-  </div>
+  <p><strong>Full-Stack Developer & Enterprise Solutions Architect | Healthcare Systems Specialist | Building Production-Grade Applications</strong></p>
+  <p><em>Building scalable, production-grade applications with modern technologies</em></p>
 </div>
 
 ---
 
-## 💼 Professional Summary
+## 💼 About Me
 
-Full-stack developer with expertise in building scalable, production-grade applications. Specialized in healthcare systems, hospitality management, and enterprise software solutions. Proficient in modern web technologies with a proven track record of delivering robust applications using Next.js, React, Node.js, and TypeScript.
+Full-stack developer specializing in **healthcare systems**, **hospitality management**, and **enterprise software solutions**. With 26+ projects across diverse domains, I deliver robust applications using cutting-edge technologies and best practices.
+
+**Quick Facts:**
+- 🎯 26+ projects | 4 public repositories
+- 🏥 Healthcare domain expert
+- 🏗️ Full-Stack architect
+- 💻 Next.js & MERN Stack specialist
+- 🌍 Building digital solutions for real-world problems
 
 ---
 
-## 🛠️ Technical Stack
+## 🛠️ Tech Stack
 
 ### **Frontend**
-- **Frameworks:** Next.js, React, TypeScript
-- **Styling:** Tailwind CSS, CSS3
-- **State Management:** Redux, Context API
-- **Tools:** Webpack, Vite, npm/yarn
+<div>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+</div>
 
 ### **Backend**
-- **Runtime:** Node.js, JavaScript
-- **Databases:** MongoDB, SQL
-- **APIs:** RESTful APIs, Express.js
-- **Authentication:** JWT, Session-based
+<div>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
+  <img src="https://img.shields.io/badge/MongoDB-13AA52?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
+  <img src="https://img.shields.io/badge/REST_APIs-FF6B35?style=for-the-badge&logo=fastapi&logoColor=white" alt="REST APIs" />
+</div>
 
-### **Other Skills**
-- **DevOps & Deployment:** Vercel, GitHub Pages
-- **Version Control:** Git, GitHub
-- **Development:** Agile, Scrum, Full-Stack Development
+### **Tools & DevOps**
+<div>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
+  <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="npm" />
+</div>
 
 ---
 
 ## 📂 Featured Projects
 
-### 🏥 **Healthcare & Medical Applications**
-- **[Medical Server](https://github.com/RajaShadabEhsanChohan/medical-server)** — Backend infrastructure for medical applications (JavaScript)
-- **[Medical Client](https://github.com/RajaShadabEhsanChohan/medical-client)** — Patient management & healthcare portal
-- **[Medical Software](https://github.com/RajaShadabEhsanChohan/medical-software)** — Complete healthcare management system
-- **[Dental Clinic](https://github.com/RajaShadabEhsanChohan/dental-clinic)** — Appointment & patient management for dental services
+### 🏥 Healthcare Solutions
+- **[Medical Server](https://github.com/RajaShadabEhsanChohan/medical-server)** — Backend infrastructure for medical applications
+- **[Medical Client](https://github.com/RajaShadabEhsanChohan/medical-client)** — Patient management portal
+- **[Dental Clinic](https://github.com/RajaShadabEhsanChohan/dental-clinic)** — Appointment & patient management
 
-### 🏨 **Hospitality & Booking Systems**
-- **[Hotel Booking System](https://github.com/RajaShadabEhsanChohan/hotel-booking-system)** — Full-featured hotel reservation platform (Next.js/TypeScript)
-- **[Guest House](https://github.com/RajaShadabEhsanChohan/guest-house)** — Guest accommodation management system
+### 🏨 Hospitality & Booking
+- **[Hotel Booking System](https://github.com/RajaShadabEhsanChohan/hotel-booking-system)** — Full-featured reservation platform
+- **[Guest House](https://github.com/RajaShadabEhsanChohan/guest-house)** — Accommodation management system
 
-### 📱 **Social & Communication**
-- **[Shadygram](https://github.com/RajaShadabEhsanChohan/shadygram)** — Next.js-based social media application (TypeScript)
-- **[Mail Server](https://github.com/RajaShadabEhsanChohan/mail-server)** — Email infrastructure & messaging system
-- **[R-Mail](https://github.com/RajaShadabEhsanChohan/r-mail)** — Advanced mail client application
+### 📱 Social & Communication
+- **[Shadygram](https://github.com/RajaShadabEhsanChohan/shadygram)** — Social media platform (Next.js/TypeScript)
+- **[Mail Server](https://github.com/RajaShadabEhsanChohan/mail-server)** — Email infrastructure
 
-### 🏢 **Business & Management Solutions**
-- **[Inventory Management System](https://github.com/RajaShadabEhsanChohan/inventory-management-system)** — Stock & supply chain management
-- **[Restaurant Smokehouse](https://github.com/RajaShadabEhsanChohan/restaurant-smokehouse)** — Restaurant ordering & management platform
-- **[Ambulance Service (24-7)](https://github.com/RajaShadabEhsanChohan/24-7_Ambulance)** — Emergency response coordination system
-- **[Auto Task](https://github.com/RajaShadabEhsanChohan/auto-task)** — Automated task management platform
+### 🏢 Business Management
+- **[Inventory Management System](https://github.com/RajaShadabEhsanChohan/inventory-management-system)** — Stock management
+- **[Restaurant Smokehouse](https://github.com/RajaShadabEhsanChohan/restaurant-smokehouse)** — Restaurant ordering platform
+- **[24-7 Ambulance Service](https://github.com/RajaShadabEhsanChohan/24-7_Ambulance)** — Emergency coordination system
 
-### 🎓 **Educational & Portfolio Projects**
-- **[Portfolio](https://github.com/RajaShadabEhsanChohan/portfolio)** — Personal portfolio website (Next.js/TypeScript)
+### 🎓 Portfolio & Web
+- **[Portfolio](https://github.com/RajaShadabEhsanChohan/portfolio)** — Personal portfolio website
 - **[College Site](https://github.com/RajaShadabEhsanChohan/College_Site)** — Educational institution website
-- **[CNIC Extract](https://github.com/RajaShadabEhsanChohan/cnic-extract)** — Data extraction & processing utility
-
-### 🏗️ **Enterprise & Infrastructure**
-- **[SLM (Service Level Management)](https://github.com/RajaShadabEhsanChohan/slm)** — Service monitoring & management system
-- **[SQL Database Projects](https://github.com/RajaShadabEhsanChohan/sql)** — Database design & optimization
-- **[BCKZ Site](https://github.com/RajaShadabEhsanChohan/bckz-site)** — Enterprise web application
 
 ---
 
-## 📊 Key Highlights
+## 🎯 Key Strengths
 
-✅ **26+ Projects** across multiple domains  
-✅ **Full-Stack Expertise** — Frontend to Backend  
-✅ **Healthcare Domain** — Medical software development  
-✅ **Scalable Architecture** — Production-ready applications  
-✅ **TypeScript & Modern JS** — Type-safe development  
-✅ **Next.js Specialist** — Modern React framework  
-✅ **Team Collaboration** — Tech Warriors Techathon Participant  
-
----
-
-## 🎯 What I'm Looking For
-
-- 🚀 **Opportunities:** Full-Stack Developer, Backend Engineer, or Technical Lead positions
-- 🏢 **Industries:** Healthcare, SaaS, Fintech, E-commerce, Enterprise Software
-- 📍 **Work Style:** Remote-friendly, collaborative, growth-oriented teams
-- 💡 **Interests:** Scalable systems, cloud architecture, DevOps, and innovative solutions
+✅ **Full-Stack Development** — End-to-end application architecture  
+✅ **Healthcare Expertise** — Medical software & patient management  
+✅ **Scalable Design** — Production-ready, enterprise-grade solutions  
+✅ **Modern Tech Stack** — Next.js, React, Node.js, TypeScript  
+✅ **Problem Solver** — Quick learner with strong debugging skills  
+✅ **Team Player** — Collaborative approach to development  
 
 ---
 
-## 📈 GitHub Statistics
+## 🤝 Let's Connect
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RajaShadabEhsanChohan&show_icons=true&theme=dark" alt="GitHub Stats" />
+  
+  [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RajaShadabEhsanChohan)
+  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rajashadab1711@gmail.com)
+  
 </div>
 
 ---
 
-## 🤝 Connect With Me
-
-- 💼 **GitHub:** [RajaShadabEhsanChohan](https://github.com/RajaShadabEhsanChohan)
-- 📧 **Email:** [Contact via GitHub]
-- 🔗 **LinkedIn:** [https://www.linkedin.com/in/rajashadab/]
-
----
-
-## 🚀 Recent Activity
-
-- Active in full-stack development with focus on Next.js and TypeScript
-- Continuously building enterprise-grade applications
-- Open to collaboration and contributions
-
----
-
-## 📝 License
-
-All my projects are developed with professionalism and industry best practices. Feel free to explore, contribute, or reach out for collaboration!
-
----
-
 <div align="center">
-  <p><strong>⭐ If you find my projects valuable, please consider giving them a star! ⭐</strong></p>
-  <p>Made with ❤️ by Raja Shadab Ehsan Chohan</p>
+  <h3>💡 <em>"Code is poetry written in logic. Every line tells a story of innovation and impact."</em> 💡</h3>
+  <p><strong>Let's build something extraordinary together!</strong></p>
 </div>
+
+---
+
